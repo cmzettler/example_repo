@@ -1,6 +1,8 @@
 ---
 title: "Simple document"
-output: html_document
+author: Christie Zettler
+date: 2021-09-16
+output: github_document
 ---
 
 I'm an R Markdown document! 
